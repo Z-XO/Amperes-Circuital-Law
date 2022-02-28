@@ -1,2 +1,3 @@
 # Amperes-Circuital-Law
-Vector Calculus application in Ampere’s circuital law project
+Small Project done for a math class
+[AmperesCircuitalLaw.pdf](https://github.com/Z-XO/Amperes-Circuital-Law/files/8152893/AmperesCircuitalLaw.pdf)
